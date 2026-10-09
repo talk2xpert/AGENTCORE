@@ -18,7 +18,7 @@ Each example uses the **Lauki Q&A dataset** (`lauki_qna.csv`) as a knowledge bas
 
 - **Python**: 3.13 or newer (see [python.org/downloads](https://www.python.org/downloads/) to install)
 - **Operating System**: Windows, macOS, or Linux
-- **uv**: Ultra-fast Python package installer and resolver
+- **uv**: Ultra-fast Python package installer and resolver (https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
 Check your Python version:
 ```bash
